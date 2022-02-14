@@ -12,3 +12,10 @@ Here you can my find all of my solution on problem-solving websites
 
 - **Hacker Rank** :
 - **Leet Code** :
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
