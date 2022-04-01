@@ -17,11 +17,13 @@ int main()
         for(int k = 0; k < sp2; k++){
             printf(" ");
         } 
+        //above pyramid
         if(n >= 5){
             sp1 --;
             sp2 --;
             st = st + 2;
         }
+        //upside down pyramid
         if(n < 5){
             sp1 ++;
             sp2 ++;
